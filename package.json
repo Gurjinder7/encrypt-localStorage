@@ -1,6 +1,6 @@
 {
-  "name": "protect-localstorage",
-  "version": "0.0.1",
+  "name": "@gurjinder7/encrypt-localstorage",
+  "version": "1.0.2",
   "description": "Functions to encode local storage values",
   "main": "lib/index.js",
 "scripts": {
@@ -12,7 +12,9 @@
     "localstorage",
     "encrypt",
     "protect-localstorage",
-    "protect"
+    "protect",
+    "cipher",
+    "ciphertext"
 
   ],
   "author": "Gurjinder Singh",

@@ -11,7 +11,7 @@
 #### Note: Use only with simple key-value pairs. Saving objects with it can potentially cause issues in values.
 
 ### How to install:
-```npm i protect-localstorage```
+```npm i @gurjinder7/encrypt-localstorage```
 
 ### How to use:
 
@@ -34,5 +34,4 @@ const name = getLocalStorage('name') -- returns 'gurjinder'
 ```
 
 ###
-
-![alt text](image.png)
+![alt text](<image.png>)
